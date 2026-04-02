@@ -15,10 +15,10 @@ AI-powered full-stack projects (especially education & personalization systems)
 Backend development (Node.js, APIs, databases) and scaling projects  
 
 🌱 I’m currently learning  
-Backend development with JavaScript, Chakra UI, and Advanced DSA (DP & Greedy)  
+Backend development with JavaScript, Chakra UI, and Advanced DSA 
 
 💬 Ask me about  
-Teaching (5+ years), DSA, C/C++, Python, and simplifying complex concepts  
+DSA, C/C++, Python, and simplifying complex concepts  
 
 ⚡ Fun fact  
 I simplify tough topics so well that even beginners enjoy coding  
