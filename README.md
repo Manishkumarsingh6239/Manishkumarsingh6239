@@ -18,7 +18,7 @@ Backend development (Node.js, APIs, databases) and scaling projects
 Backend development with JavaScript, Chakra UI, and Advanced DSA 
 
 💬 Ask me about  
-DSA, C/C++, Python, and simplifying complex concepts  
+DSA, Java, C/C++, Python, and simplifying complex concepts  
 
 ⚡ Fun fact  
 I simplify tough topics so well that even beginners enjoy coding  
