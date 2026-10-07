@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Manish Rajput  
-
+# 👋 Hi, I'm Manish Kumar Singh
 🚀 Passionate Developer | 👨‍🏫 Educator | 🤖 AI Enthusiast  
 
 ---
